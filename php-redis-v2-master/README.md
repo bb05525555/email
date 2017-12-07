@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# email
+=======
 # php-redis-v2
 升级前版本：<a href='https://github.com/liuzhongsheng/php-redis-v1'>https://github.com/liuzhongsheng/php-redis-v1</a>
 <h3>使用说明：</h3>
@@ -78,3 +81,4 @@ return [
 </pre>
 <p>以上为本程序使用方式欢迎大家提提建议或者加入QQ群：456605791 交流，如果觉得代码写得还行请赞一个谢谢,欢迎提出更好的解决办法<p>
 <b>url:<a href='https://www.php63.cc'>https://www.php63.cc</a></b>
+>>>>>>> di 4 ci
