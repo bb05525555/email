@@ -80,5 +80,6 @@ return [
     2017-12-06 新增debug,附件模式,执行shell，代码结构优化
 </pre>
 <p>以上为本程序使用方式欢迎大家提提建议或者加入QQ群：456605791 交流，如果觉得代码写得还行请赞一个谢谢,欢迎提出更好的解决办法<p>
+<p>git上传测试：sax</p>
 <b>url:<a href='https://www.php63.cc'>https://www.php63.cc</a></b>
 >>>>>>> di 4 ci
